@@ -50,8 +50,6 @@ a {
 
 .header {
     background-color: #FFFFFF;
-    width: 1440;
-    height: 72;
     opacity: 1;
 }
 
@@ -89,7 +87,7 @@ a {
     font-style: bold;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 0.002em;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #FFFFFF;
     
@@ -118,7 +116,7 @@ a {
         line-height: 111%;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;    
+        color: #2e2f42;
 }
 
 .benefits-list {
@@ -137,7 +135,7 @@ a {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color:#434455;
 }
 
@@ -152,8 +150,8 @@ a {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11px;
-    letter-spacing: 0.02 em;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-align: center;
     color:#2E2F42;
     text-transform: capitalize;
