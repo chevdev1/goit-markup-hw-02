@@ -14,6 +14,10 @@ a {
     list-style: none;
 }
 
+.header {
+    background-color: #FFFFFF;
+    opacity: 1;
+}
 
 .nav-link {
     color: #2E2F42;
@@ -24,10 +28,6 @@ a {
     text-decoration: none;
     transition: color 0.3s ease;
 }
-
-.nav-link:hover,
-.nav-link:focus {
-    color: #404bbf; }
 
 
 .contact-link {
@@ -44,11 +44,6 @@ a {
     color: #404bbf;
     text-decoration: none;
     transition: color 0.3s ease;
-}
-
-.header {
-    background-color: #FFFFFF;
-    opacity: 1;
 }
 
 .header-contacts {
@@ -239,4 +234,9 @@ a {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #F4F4FD;
+ }
+
+ .nav-link:hover,
+ .nav-link:focus {
+     color: #404bbf;
  }
