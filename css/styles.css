@@ -15,9 +15,6 @@ a {
     list-style: none;
 }
 
-.nav-list {
-    color: #434455;
-}
 
 .nav-link {
     color:#2E2F42;
@@ -25,12 +22,16 @@ a {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
-.header-nav .nav-link:focus,
-.header-nav .nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
     color: #404bbf;
 }
+
+
 
 .contact-link {
     color:  #434455;
@@ -73,10 +74,6 @@ a {
     color:#2e2f42;
 }
 
-.nav-list {
-    list-style: none;
-    color: #434455;
-}
 
 .hero-section {
     background-color: #2e2f42;
