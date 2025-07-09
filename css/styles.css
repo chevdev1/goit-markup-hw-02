@@ -8,6 +8,7 @@ body {
 a {
     color: inherit;
     text-decoration: none;
+    font-style: normal;
 }
 
 .contact-list-item {
@@ -26,8 +27,8 @@ a {
     letter-spacing: 0.02em;
 }
 
-.nav-link:focus,
-.nav-link:hover {
+.header-nav .nav-link:focus,
+.header-nav .nav-link:hover {
     color: #404bbf;
 }
 
