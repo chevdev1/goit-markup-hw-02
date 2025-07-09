@@ -244,11 +244,18 @@ a {
     color: #F4F4FD;
  }
 
- .nav-list-item:first-child .nav-link:hover,
- .nav-list-item:first-child .nav-link:focus {
-     color: #404bbf;
- }
+
  #studio-link:focus,
  #studio-link:hover {
     color: #404bbf;
+ }
+
+ .nav-link:hover,
+ .nav-link:focus {
+     color: #404bbf;
+ }
+
+ .contact-link:hover,
+ .contact-link:focus {
+     color: #404bbf;
  }
