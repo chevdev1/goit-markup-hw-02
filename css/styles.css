@@ -19,6 +19,14 @@ a {
     opacity: 1;
 }
 
+.nav-list {
+    list-style: none;
+}
+
+.nav-list-item .nav-link:hover,
+.nav-list-item .nav-link:focus {
+    color: #404bbf;
+}
 .nav-link {
     color: #2E2F42;
     font-size: 16px;
@@ -28,7 +36,10 @@ a {
     text-decoration: none;
     transition: color 0.3s ease;
 }
-
+ .nav-link:hover,
+ .nav-link:focus {
+     color: #404bbf;
+ }
 
 .contact-link {
     color:  #434455;
@@ -236,7 +247,3 @@ a {
     color: #F4F4FD;
  }
 
- .nav-link:hover,
- .nav-link:focus {
-     color: #404bbf;
- }
