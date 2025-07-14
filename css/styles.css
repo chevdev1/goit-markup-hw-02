@@ -40,7 +40,6 @@ a {
 
 .contact-link {
     color:  #434455;
-    font-weight: 400;
     font-size: 16px;
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -94,7 +93,7 @@ a {
     cursor: pointer;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
 
@@ -109,7 +108,7 @@ a {
         font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
-        line-height: 111%;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -122,15 +121,14 @@ a {
 .benefits-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
 .benefits-text {
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
@@ -157,13 +155,12 @@ a {
 .team-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
 .team-position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
@@ -178,7 +175,6 @@ a {
 .portfolio-title {
     text-transform: capitalize;
     color: #2e2f42;
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -193,16 +189,15 @@ a {
 .portfolio-card-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
     
 }
 
 .portfolio-text {
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -236,9 +231,8 @@ a {
  
 
 .footer-text {
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
  }
